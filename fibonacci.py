@@ -3,5 +3,5 @@ def fibonacci(num):
         return num
     return fibonacci(num-1)+fibonacci(num-2)
 
-n = int(input())
-print(fibonacci(n))
+num = int(input())
+print(fibonacci(num))
