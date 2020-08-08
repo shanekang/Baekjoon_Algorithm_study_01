@@ -1,4 +1,3 @@
-
 t = int(input())
 count = [1,2,4]
 for i in range(3, 11):
