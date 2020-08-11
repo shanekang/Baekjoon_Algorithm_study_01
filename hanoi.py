@@ -1,3 +1,4 @@
+
 def hanoi(n, start, middle, end):
     if n == 1:
         count.append([start, end])
