@@ -1,3 +1,5 @@
+
+
 N = int(input())
  
 def factorial(N):
